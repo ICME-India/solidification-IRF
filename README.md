@@ -1,2 +1,2 @@
 # solidification-IRF
-Repository for python scripts to calculate Interface Response Functions for solidification
+This is a repository for python scripts to calculate Interface Response Functions for solidification. Interface response functions with and without Calphad coupling are calculated. More details can be found in our preprint [http://arxiv.org/abs/2303.07663](http://arxiv.org/abs/2303.07663) titled "Interface Response functions for multicomponent alloys - An Application to additive manufacturing". The codes will updated once the manuscript is accepted for publication.
