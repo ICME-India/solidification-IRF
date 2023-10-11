@@ -1,0 +1,12 @@
+{"Solutes":["C", "Mn", "Al"],
+"Alloy_composition":[0.00234,0.005,0.0170],
+"Eqm_partition_coefficient":[0.2716,0.7065,0.9295],
+"Eqm_liquidus_slope":[-6569.4,-496.7,-588.7],
+"Solvent_melting_point":1810.95,
+"Kinetic_coeff":0.24,
+"Interface_diffusive_speed":0.75,
+"Diffusivity":[5e-9,5e-9,5e-9],
+"Minimum_velocity":1E-04,
+"Maximum_velocity":1.0,
+"Step_velocity":5E-03,
+"Filename":"FeCMnAl_gamma.csv"}

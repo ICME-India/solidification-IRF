@@ -1,0 +1,12 @@
+{"Solutes":["C", "Mo", "Mn", "Si"],
+"Alloy_composition":[0.0035, 0.0224, 0.0045, 0.0025],
+"Eqm_partition_coefficient":[0.1561, 0.7237, 0.7187, 0.6726],
+"Eqm_liquidus_slope":[-8580.0373, -261.256, -521.308, -1256.316],
+"Solvent_melting_point":1810.95,
+"Kinetic_coeff":0.325,
+"Interface_diffusive_speed":1.0,
+"Diffusivity":[5e-9,5e-9,5e-9,5e-9],
+"Minimum_velocity":1E-04,
+"Maximum_velocity":1.0,
+"Step_velocity":5E-03,
+"Filename":"Planar_H13_delta.csv"}

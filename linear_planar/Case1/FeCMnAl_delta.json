@@ -1,0 +1,12 @@
+{"Solutes":["C", "Mn", "Al"],
+"Alloy_composition":[0.00234,0.005,0.0170],
+"Eqm_partition_coefficient":[0.2059,0.7129,1.098],
+"Eqm_liquidus_slope":[-7015.3,-467.9,195.2],
+"Solvent_melting_point":1810.95,
+"Kinetic_coeff":0.325,
+"Interface_diffusive_speed":1.0,
+"Diffusivity":[5e-9,5e-9,5e-9],
+"Minimum_velocity":1E-04,
+"Maximum_velocity":1.0,
+"Step_velocity":5E-03,
+"Filename":"FeCMnAl_delta.csv"}
