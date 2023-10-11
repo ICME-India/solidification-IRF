@@ -7,4 +7,5 @@ All the models have the format for running. All the parameters are mentioned in 
 For running in Jupyter Notebook,
 `%run run_KGT.py H13_delta.json`
 For running in spyder,
-`runfile("run_KGT.py",args="H13_delta.json")`
+`runfile("run_KGT.py",args="H13_delta.json")`  
+For Calphad-coupled models (Ludwig and Wang), `tcpython` API of Thermo-Calc needed. Although this dependency will be removed in future and options for using `pycalphad` will be enabled.
